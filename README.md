@@ -49,16 +49,20 @@ The first player to align three symbols in a row, column, or diagonal wins.
 If all cells are filled without a winner, the game ends in a draw.
 Press the Restart or Play Again button to reset the game.
 Screenshots
+
 Gameplay
-<img src="![WhatsApp Image 2024-12-31 at 04 59 44 (1)](https://github.com/user-attachments/assets/124ca62a-09d5-4315-8d7e-cde544bbaf1e)
-" alt="Gameplay Screenshot" width="300">
+
+<img src=![WhatsApp Image 2024-12-31 at 04 59 44 (1)](https://github.com/user-attachments/assets/124ca62a-09d5-4315-8d7e-cde544bbaf1e)
+alt="Gameplay Screenshot" width="300">
+
+
 Winner Notification
-<img src="![WhatsApp Image 2024-12-31 at 04 59 44](https://github.com/user-attachments/assets/7f0cd766-3ea7-4b17-8677-383ed7de4a17)
-r" alt="Winner Notification Screenshot" width="300">
+<img src=![WhatsApp Image 2024-12-31 at 04 59 44](https://github.com/user-attachments/assets/7f0cd766-3ea7-4b17-8677-383ed7de4a17)
+ alt="Winner Notification Screenshot" width="300">
 
 Draw Notification
-<img src="![WhatsApp Image 2024-12-31 at 04 59 43](https://github.com/user-attachments/assets/c915216b-49e5-47a4-8503-60ba935ab098)
-" alt="Winner Notification Screenshot" width="300">
+<img src=![WhatsApp Image 2024-12-31 at 04 59 43](https://github.com/user-attachments/assets/c915216b-49e5-47a4-8503-60ba935ab098)
+ alt="Winner Notification Screenshot" width="300">
 
 
 Future Enhancements
