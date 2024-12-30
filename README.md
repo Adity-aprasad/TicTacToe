@@ -50,9 +50,17 @@ If all cells are filled without a winner, the game ends in a draw.
 Press the Restart or Play Again button to reset the game.
 Screenshots
 Gameplay
-<img src="path-to-screenshot-gameplay" alt="Gameplay Screenshot" width="300">
+<img src="![WhatsApp Image 2024-12-31 at 04 59 44 (1)](https://github.com/user-attachments/assets/124ca62a-09d5-4315-8d7e-cde544bbaf1e)
+" alt="Gameplay Screenshot" width="300">
 Winner Notification
-<img src="path-to-screenshot-winner" alt="Winner Notification Screenshot" width="300">
+<img src="![WhatsApp Image 2024-12-31 at 04 59 44](https://github.com/user-attachments/assets/7f0cd766-3ea7-4b17-8677-383ed7de4a17)
+r" alt="Winner Notification Screenshot" width="300">
+
+Draw Notification
+<img src="![WhatsApp Image 2024-12-31 at 04 59 43](https://github.com/user-attachments/assets/c915216b-49e5-47a4-8503-60ba935ab098)
+" alt="Winner Notification Screenshot" width="300">
+
+
 Future Enhancements
 Add support for choosing player symbols.
 Implement a timer for turns.
@@ -64,12 +72,4 @@ Contributions are welcome! Feel free to submit a pull request or open an issue f
 License
 This project is licensed under the MIT License.
 
-vbnet
-Copy code
 
-### Notes:
-- Replace `<repository-url>` with the GitHub repository URL.
-- Replace `path-to-screenshot-gameplay` and `path-to-screenshot-winner` with the actual paths to your screenshots.
-- Update the "Future Enhancements" section based on your plans. 
-
-Let me know if you need help customizing this!
